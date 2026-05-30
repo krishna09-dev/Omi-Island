@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleName</key>
+    <string>Omi-Island</string>
+    <key>CFBundleDisplayName</key>
+    <string>Omi-Island</string>
+    <key>CFBundleIdentifier</key>
+    <string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+    <key>CFBundleVersion</key>
+    <string>$(CURRENT_PROJECT_VERSION)</string>
+    <key>CFBundleShortVersionString</key>
+    <string>$(MARKETING_VERSION)</string>
+    <key>LSUIElement</key>
+    <true/>
+    <key>NSHumanReadableCopyright</key>
+    <string>Copyright 2026. All rights reserved.</string>
+
+    <key>NSAppleEventsUsageDescription</key>
+    <string>Omi-Island uses AppleScript to read Now Playing information from supported media apps and browser tabs, including Apple Music, Spotify, YouTube, YouTube Music, and Spotify Web. This is used only to show the current track in the notch.</string>
+
+</dict>
+</plist>
